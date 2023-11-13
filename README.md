@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+## Video
+
+https://github.com/itheaks/flutter-todo/assets/134759689/3ff9a3fb-34fc-4557-9b5b-eb0dafbf65ba
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
