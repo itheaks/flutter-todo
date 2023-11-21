@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-## Video
+## Video showing how it works
 
 https://github.com/itheaks/flutter-todo/assets/134759689/3ff9a3fb-34fc-4557-9b5b-eb0dafbf65ba
 
